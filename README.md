@@ -6,11 +6,14 @@ Para utilizar esse utilitário basta baixar no seu computador e executar no cmd.
 Como usar:
 
 No prompt de comando vá até a pasta do arquivo CheckProfilePasswd.bat.
-Execute o comando: 'C:\TEMP\CheckProfilePasswd.bat' <kbd>Enter</kbd>
+Execute o comando: 
+
+'C:\TEMP\CheckProfilePasswd.bat' <kbd>Enter</kbd>
+
 Logo após será exibido os perfis de wifi que estão no seu computador. 
  
 Exemplo: 
-  
+'  
 Perfis na interface Wi-Fi:
 
 Perfis da política de grupo (somente leitura)
@@ -31,7 +34,7 @@ Todos os Perfis de Usuários: IChacara_5G
 
 
 Entre com o perfil:
-      
+'      
 O tamanho da lista vai depender de quantos perfis você tem em seu computador.
 Escolha a rede digitando seu nome corretamente e pressione Enter.
 
