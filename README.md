@@ -17,11 +17,11 @@ Exemplo:
 Perfis na interface Wi-Fi:
 
 Perfis da política de grupo (somente leitura)
----------------------------------
+
     <Nenhum>
 
 Perfis do usuário
--------------
+
 Todos os Perfis de Usuários: Luthor Enterprises
 Todos os Perfis de Usuários: CLARO_2G006196
 Todos os Perfis de Usuários: IPhone
