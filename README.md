@@ -1,18 +1,4 @@
-''''
- _   _ _                                  _                    __ _ _            _    _ _       __  _____ 
-| | | (_)                                | |                  / _(_) |          | |  | (_)     /  ||  _  |
-| | | |_  _____      __  _ ____      ____| |  _ __  _ __ ___ | |_ _| | ___      | |  | |_ _ __ `| || |/' |
-| | | | |/ _ \ \ /\ / / | '_ \ \ /\ / / _` | | '_ \| '__/ _ \|  _| | |/ _ \     | |/\| | | '_ \ | ||  /| |
-\ \_/ / |  __/\ V  V /  | |_) \ V  V / (_| | | |_) | | | (_) | | | | |  __/  _  \  /\  / | | | || |\ |_/ /
- \___/|_|\___| \_/\_/   | .__/ \_/\_/ \__,_| | .__/|_|  \___/|_| |_|_|\___| (_)  \/  \/|_|_| |_\___/\___/ 
-                        | |                  | |                                                          
-                        |_|                  |_|   
-''''
-
-# PwdWiFiWin10
-Recuperar a senha do perfil do Wifi do Windows 10
-
-
+# Recuperar a senha do perfil do Wifi do Windows 10
 
 Utilitário para facilitar a recuperação das senhas dos perfis de wifi do seu computador com Windows 10.
 Para utilizar esse utilitário basta baixar no seu computador e executar no cmd.exe (prompt de compando) ou windows terminal (cmd.exe)
@@ -20,9 +6,10 @@ Para utilizar esse utilitário basta baixar no seu computador e executar no cmd.
 Como usar:
 
 No prompt de comando vá até a pasta do arquivo CheckProfilePasswd.bat.
-Execute o comando: CheckProfilePasswd.bat <pressione Enter>
-Logo após será exibido os perfis de wifi que estão no seu computador. Exemplo:
-  
+Execute o comando: 'C:\TEMP\CheckProfilePasswd.bat' <kbd>Enter</kbd>
+Logo após será exibido os perfis de wifi que estão no seu computador. 
+ 
+Exemplo: 
   
 Perfis na interface Wi-Fi:
 
